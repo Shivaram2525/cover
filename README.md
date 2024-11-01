@@ -1,5 +1,7 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:1/11/2024
+## Name: SHIVARAM M.
+## Reg.No.: 212223040195
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
