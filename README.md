@@ -52,17 +52,23 @@ Publish the website in the LocalHost.
         .bookpage {
             width: 400px;
             height: 600px;
-            color: rgb(0, 0, 0);
+            color: rgb(0, 0, 10);
             padding: 20px;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             background-image: url(MY_BOOK.jpg);
             background-size: cover;
+            position: relative;
         }
         .archive{
             color: rgb(0, 0, 0);
+            display: block;
+            position: relative;
+            top: -14px;
         }
         .hrstyle{
-            width:100px;
+            position: relative;
+            top: -23px;
+            width:155px;
         }
         .author{
             display: inline;
@@ -96,6 +102,9 @@ Publish the website in the LocalHost.
             font-family: Verdana;
             position:relative;
             top:85px;
+            background: #ccc;
+            height: 9%;
+            width: 43%;
         }
         .subtitle{
             font-family:Tahoma;
